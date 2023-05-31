@@ -68,4 +68,4 @@ If your original primary database was attached to multiple apps, you must attach
 
 
 Exit mode maintenance
-`$ heroku maintenance:off --app prescrypto-development`
+`$ heroku maintenance:off --app myapp`
